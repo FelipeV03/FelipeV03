@@ -15,7 +15,7 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=FelipeV03&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=FelipeV03&&show_icons=true&theme=radical&line_height=30&v=2" alt="Ashwani's GitHub Stats" />
 
 ###  👨‍💻 Technologies and tools
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"> <br/>
@@ -36,11 +36,6 @@
 
 
 <div align="center">
-
-  <br />
-	
-  <br />
-
 
 ![Profile views](https://gpvc.arturio.dev/FelipeV03)  <img src="https://img.shields.io/github/followers/FelipeV03?label=Follow" style=" float:left, margin-right:10px" />
 	
