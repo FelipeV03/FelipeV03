@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/FelipeV03/FelipeV03/blob/main/XD.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
+
 ---
 
 
@@ -12,8 +13,8 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 
-
 ---
+
 ###  👨‍💻 Technologies and tools
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"> <br/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
@@ -28,7 +29,6 @@
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python">  <br/>
 <img src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux">
 <img src="https://img.shields.io/badge/-Ubuntu-orange?style=flat&logo=ubuntu"> <br/>
-
 ---
 
 
