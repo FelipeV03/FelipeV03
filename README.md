@@ -42,11 +42,11 @@
 
 	
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-  <a target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRzdJBfLHDhKkhgtwTHjPckBPCPVlHMcRqPKlhwXvrxPSBRNvRDZmvmbmFJmpQRpwKfTg" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRzdJBfLHDhKkhgtwTHjPckBPCPVlHMcRqPKlhwXvrxPSBRNvRDZmvmbmFJmpQRpwKfTg" target="_blank">
     <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
   </a>
 	
-  <a target="_blank" href="https://www.instagram.com/felipe._.v03">
+  <a href="https://www.instagram.com/felipe._.v03" target="_blank">
  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
 </div>
