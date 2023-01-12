@@ -34,12 +34,22 @@
 
 ---
 
-
 <div align="center">
-
-![Profile views](https://gpvc.arturio.dev/FelipeV03)  <img src="https://img.shields.io/github/followers/FelipeV03?label=Follow" style=" float:left, margin-right:10px" />
-	
   <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
+	
+
+
+
+	
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+	
+  <a target="_blank" href="https://www.instagram.com/felipe._.v03" target="_blank">
+    <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
+  </a>
+	
+  <a target="_blank" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNqtLHgwRWbcfWGkJCxQZxVbcQXfQwrmFlgRGkSqFFVQjLkCnGPwSsdwdLDZTGzCwwdFlq">
+ <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
 </div>
 
 
