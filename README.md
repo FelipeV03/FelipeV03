@@ -8,7 +8,8 @@
 
 
 ### Hi, I'm Felipe, a full stack developer from Colombia.
-I have experience in web development with NodeJs, Express, JavaScript, Mysql, CSS, HTML and automation with Python
+###I have experience in web development with NodeJs, Express,
+###JavaScript, Mysql, CSS, HTML and automation with Python
 
 <div align="center">
 	<br>
