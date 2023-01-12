@@ -6,15 +6,12 @@
 
 ---
 
-<div align="center">
 ### Hi, I'm Felipe, a full stack developer from Colombia.
 ### I have experience in web development with NodeJs, Express,
 ### JavaScript, Mysql, CSS, HTML and automation with Python
-</div>
 
 <div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200" top="600">
 </div>
 
 ---
