@@ -8,6 +8,8 @@
 
 
 ### Hi, I'm Felipe, a full stack developer from Colombia.
+I have experience in web development with NodeJs, Express, JavaScript, Mysql, CSS, HTML and automation with Python
+
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
