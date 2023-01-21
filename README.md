@@ -1,7 +1,7 @@
 ### Hey Felipe here 👋
 
 <p align="center">
-  <img src="https://github.com/FelipeV03/FelipeV03/blob/main/XD.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/FelipeV03/FelipeV03/blob/main/CartaGitHub.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 ---
