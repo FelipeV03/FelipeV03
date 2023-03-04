@@ -43,12 +43,18 @@
 
 	
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+  
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRzdJBfLHDhKkhgtwTHjPckBPCPVlHMcRqPKlhwXvrxPSBRNvRDZmvmbmFJmpQRpwKfTg" target="_blank">
     <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
   </a>
 	
   <a href="https://www.instagram.com/felipe._.v03" target="_blank">
  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+  
+  
+  <a href="https://https://www.linkedin.com/in/dev-felipe-vargas/" target="_blank">
+ <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 </div>
 
