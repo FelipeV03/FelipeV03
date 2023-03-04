@@ -53,7 +53,7 @@
   </a>
   
   
-  <a href="https://https://www.linkedin.com/in/dev-felipe-vargas/" target="_blank">
+  <a href="https://www.linkedin.com/in/dev-felipe-vargas/" target="_blank">
  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
 </div>
