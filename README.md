@@ -48,7 +48,7 @@
     <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
   </a>
 	
-  <a href="https://www.instagram.com/felipe._.v03" target="_blank">
+  <a href="https://www.instagram.com/felipe._.v05" target="_blank">
  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
   
