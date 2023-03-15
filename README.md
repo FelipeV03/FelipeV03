@@ -21,9 +21,8 @@
 ###  👨‍💻 Technologies and tools
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"> <br/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
-<img src="https://img.shields.io/badge/-JavaScript-F4D03F?style=flat&logo=javascript&logoColor=white">
-<br/>
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask">
+<img src="https://img.shields.io/badge/-JavaScript-F4D03F?style=flat&logo=javascript&logoColor=white"> <br/>
+<img src="https://img.shields.io/badge/-Selenium-3C873A?style=flat&logo=selenium&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white"> <br/>
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <br/>
@@ -33,9 +32,8 @@
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python">  <br/>
 <img src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux">
 <img src="https://img.shields.io/badge/-Ubuntu-D35400?style=flat&logo=ubuntu&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/-Selenium-3C873A?style=flat&logo=selenium&logoColor=white">
-<img src="https://img.shields.io/badge/-Angular-FC0202?style=flat&logo=angular"> <br/>
-<img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typeScript&logoColor=white">
+<img src="https://img.shields.io/badge/-Angular-FC0202?style=flat&logo=angular">
+<img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typeScript&logoColor=white"> <br/>
 
 ---
 
