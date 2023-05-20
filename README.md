@@ -1,4 +1,4 @@
-### Hey Felipe here 👋
+### Hola Soy Felipe 👋
 
 <p align="center">
   <img src="https://github.com/FelipeV03/FelipeV03/blob/main/CartGitHub.png" width="100%" title="Intro Card" alt="Intro Card">
@@ -6,9 +6,10 @@
 
 ---
 
-### Hi, I'm Felipe, a full stack developer from Colombia.
-### I have experience in web development with NodeJs, Express,
-### JavaScript, Mysql, CSS, HTML and automation with Python
+### ¡Hola! Soy Felipe, un desarrollador Full-Stack de Colombia con amplia experiencia en el desarrollo web.
+### Estoy especializado en el uso de JavaScript, NodeJs, Express, Angular, TypeScript, Mysql, CSS, HTML, Bootstrap y la automatización de tareas con Python y Selenium.
+### Me apasiona crear soluciones sólidas y eficientes para mis clientes. Si necesitas ayuda con tu proyecto, no dudes en contar conmigo.
+### Estaré encantado de colaborar contigo y encontrar la mejor manera de llevarlo a cabo.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200" top="600">
