@@ -1,8 +1,9 @@
 ### Hola Soy Felipe 👋
 
-<p align="center">
-  <img src="https://github.com/FelipeV03/FelipeV03/blob/main/CartGitHub.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+<!-- <p align="center">
+    <img src="https://github.com/FelipeV03/FelipeV03/blob/main/CartGitHub.png" width="100%" title="Intro Card"
+        alt="Intro Card">
+</p> -->
 
 ---
 
