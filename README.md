@@ -1,67 +1,98 @@
-### Hola Soy Felipe 👋
-
-<!-- <p align="center">
-    <img src="https://github.com/FelipeV03/FelipeV03/blob/main/CartGitHub.png" width="100%" title="Intro Card"
-        alt="Intro Card">
-</p> -->
-
----
-
-### ¡Hola! Soy Felipe, un desarrollador Full-Stack de Colombia con amplia experiencia en el desarrollo web.
-### Estoy especializado en el uso de JavaScript, NodeJs, Express, Angular, TypeScript, Mysql, CSS, HTML, Bootstrap y la automatización de tareas con Python y Selenium.
-### Me apasiona crear soluciones sólidas y eficientes para mis clientes. Si necesitas ayuda con tu proyecto, no dudes en contar conmigo.
-### Estaré encantado de colaborar contigo y encontrar la mejor manera de llevarlo a cabo.
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200" top="600">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d6b,100:00d9ff&height=200&section=header&text=Felipe%20Vargas&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Building+for+the+web+since+day+one+%F0%9F%9A%80;Next.js+%7C+Node.js+%7C+TypeScript+%7C+Python;Open+to+collaborate+%E2%80%94+let%27s+build+something+%F0%9F%94%A5" alt="Typing SVG" />
+
 </div>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=FelipeV03&show_icons=true&theme=transparent&card_width=380" />
+## 🧠 About Me
 
-###  👨‍💻 Technologies and tools
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"> <br/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> 
-<img src="https://img.shields.io/badge/-JavaScript-F4D03F?style=flat&logo=javascript&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/-Selenium-3C873A?style=flat&logo=selenium&logoColor=white">
-<img src="https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"/> 
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github"> <br/>
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual-Studio-Code">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python">  <br/>
-<img src="https://img.shields.io/badge/-Linux-black?style=flat&logo=linux">
-<img src="https://img.shields.io/badge/-Ubuntu-D35400?style=flat&logo=ubuntu&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/-Angular-FC0202?style=flat&logo=angular">
-<img src="https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typeScript&logoColor=white"> <br/>
+```javascript
+const felipe = {
+    location    : "Colombia 🇨🇴",
+    role        : "Full-Stack Developer",
+    company     : "Zenvark 🏢 — founder & dev",
+    building    : "Fichay 🚀 — my current project",
+    focus       : ["Next.js", "Node.js", "TypeScript"],
+    passions    : ["Clean architecture", "Automation", "Bots", "Coffee ☕"],
+    funFact     : "I automate things so I can automate more things",
+    available   : true, // 👈 Open to collaborate!
+};
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+
+**Backend & Database**
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,mysql)](https://skillicons.dev)
+
+**Automation & Bots**
+
+[![My Skills](https://skillicons.dev/icons?i=selenium,discord,discordjs)](https://skillicons.dev)
+
+**Tools & Workflow**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,npm,vscode,linux,postman,vercel)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeV03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeV03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=FelipeV03&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tu-email@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dev-felipe-vargas/)
+&nbsp;&nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/felipe._.v05)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
-	
 
+```bash
+$ git log --oneline --graph --all
+* a1b2c3d (HEAD -> main) feat: still writing code at 2am
+* d4e5f6g fix: it works, don't touch it
+* g7h8i9j init: started with "hello world", as one does
+```
 
+*"Any fool can write code that a computer can understand.*
+*Good programmers write code that humans can understand."*
+— Martin Fowler
 
-	
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-  
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhbzNGRBFjrnnwhcMdSDtzzXwZlzhXSSqfRjqWmqHVLFRvZQnkjfKCHTZxxSnCxqChKQKj" target="_blank">
-    <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" />
-  </a>
-	
-  <a href="https://www.instagram.com/felipe._.v05" target="_blank">
- <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-  
-  
-  <a href="https://www.linkedin.com/in/dev-felipe-vargas/" target="_blank">
- <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
+![Profile Views](https://komarev.com/ghpvc/?username=FelipeV03&color=00d9ff&style=flat-square&label=Profile+Views)
+
 </div>
-
-
-
-
