@@ -15,7 +15,7 @@ const felipe = {
     location    : "Colombia 🇨🇴",
     role        : "Full-Stack Developer",
     company     : "Zenvark 🏢 — founder & dev",
-    focus       : ["Next.js", "Node.js", "TypeScript"],
+    focus       : ["Next.js", "Node.js"],
     passions    : ["Clean architecture", "Automation", "Bots", "Coffee ☕"],
     funFact     : "I automate things so I can automate more things",
     available   : true, // 👈 Open to collaborate!
